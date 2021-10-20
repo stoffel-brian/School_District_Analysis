@@ -16,5 +16,8 @@
 
 ## Analysis and Challenges
 
-   - Bottom five schools
-   - (/../main/Bottom five school.png)
+[Bottom five schools](/../main/Bottom five school.PNG)
+
+[Bottom five schools(.PNG)](Bottom five school.PNG)
+
+
