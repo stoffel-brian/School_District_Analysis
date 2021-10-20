@@ -7,21 +7,14 @@
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-## Overview of Project 
- - Kickstarter data set; analyses by launch dates and goals.
- - The purpose of this analysis is to examine the Kickstarter projects by launch date and by goals. 
+ - Here are the original files, linked.
  
- [Data Supporting The Project (.xlsx)](/../main/Kickstarter_Challenge.xlsx)
-
+ [schools_complete (.csv)](/../main/schools_complete.csv)
+ 
+ [students_complete (.csv)](/../main/students_complete.csv)
+ 
 
 ## Analysis and Challenges
 
-## How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+   - Bottom five schools
+   - (/../main/Bottom five school.png)
