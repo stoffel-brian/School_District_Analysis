@@ -18,6 +18,12 @@
 
 [Bottom five schools](/../main/Bottom five school.PNG)
 
-[Bottom five schools(.PNG)](Bottom five school.PNG)
+[Top five schools](/../main/Top five schools.PNG)
 
+[District Summary Original](/../main/District Summary orginal.PNG)
 
+[District Summary Updated](/../main/District Summary update.PNG)
+
+[New Scores per Grade](/../main/New Scores per grade.PNG)
+
+[Check for Null Values in 9th Grade at Thomas High School](/../main/Check for Null Values in 9th Grade at Thomas High School.PNG)
